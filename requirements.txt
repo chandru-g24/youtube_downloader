@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+numpy==1.26.4
+opencv_python==4.9.0.80
+Pillow==10.0.1
+pytube==15.0.0
+Requests==2.32.3
+streamlit==1.32.0
