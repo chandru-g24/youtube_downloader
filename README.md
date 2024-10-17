@@ -104,7 +104,7 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 For any questions or issues, feel free to reach out:
 
 - **Email**: chandruganeshan24@gmail.com
-- **GitHub**: [your-username](https://github.com/chandru-g24)
+- **GitHub**: [github/chandru-g24](https://github.com/chandru-g24)
 
 ---
 
