@@ -1,6 +1,3 @@
-Here's a detailed and professional README file for your project. It includes an engaging presentation of the YouTube Video Downloader, with all necessary details. The README incorporates creative design suggestions and provides a clear overview of the project.
-
-```markdown
 # 🎥 YouTube Video Downloader with Streamlit
 
 Welcome to the **YouTube Video Downloader** project! This tool allows users to download videos from YouTube easily through a web-based interface built with Streamlit. It's intuitive, simple, and efficient—ideal for anyone looking to save YouTube videos for offline viewing. 🚀
