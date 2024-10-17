@@ -115,17 +115,3 @@ For any questions or issues, feel free to reach out:
 - Add support for downloading YouTube playlists.
 
 Feel free to contribute and suggest more features!
-
----
-
-Thank you for using **YouTube Video Downloader**! If you find this tool helpful, don't forget to give it a ⭐ on GitHub!
-
-
-This README.md includes:
-
-1. **Sections for Features, Installation, Usage, and Contact**.
-2. **Project demo with a visual YouTube download symbol**.
-3. **Detailed instructions for setting up and running the app**.
-4. **Creative touch with emojis and visual elements to make it more engaging**.
-
-Would you like to customize it further or add more sections?
