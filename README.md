@@ -103,8 +103,8 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 For any questions or issues, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: chandruganeshan24@gmail.com
+- **GitHub**: [your-username](https://github.com/chandru-g24)
 
 ---
 
@@ -119,7 +119,7 @@ Feel free to contribute and suggest more features!
 ---
 
 Thank you for using **YouTube Video Downloader**! If you find this tool helpful, don't forget to give it a ⭐ on GitHub!
-```
+
 
 This README.md includes:
 
